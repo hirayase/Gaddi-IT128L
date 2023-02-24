@@ -1,1 +1,3 @@
-# Gaddi-IT128L
+Chelsea Gaddi
+IT128L - FOPI01
+BSIT
